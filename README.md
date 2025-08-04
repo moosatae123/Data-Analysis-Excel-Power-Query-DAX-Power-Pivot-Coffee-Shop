@@ -28,9 +28,9 @@ This project demonstrates my end-to-end BI skills using Power Query, Power Pivot
 ## Process Overview
 **1. Data Source & ETL**
 
-    Source: ERP system export (CSV/Excel files).
+    Source: ERP system export.
 
-    Tool: Power Query.
+    Tool: Power Query, Excel
 
     Steps:
 
