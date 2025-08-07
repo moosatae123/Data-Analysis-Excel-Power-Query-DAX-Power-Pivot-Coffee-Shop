@@ -98,46 +98,46 @@ DAX usage included context transition, CALCULATE filters, and time intelligence 
 ## Key Findings & Recommendations
 **Findings:**
 
-    Total Sales: £504,343 across 214,470 units
+- Total Sales: £504,343 across 214,470 units
 
-    Highest Sales by Category: Coffee (£176,629), 35% of all sales
+- Highest Sales by Category: Coffee (£176,629), 35% of all sales
 
-    Peak Sales Time: Breakfast (49.3% of total sales)
+- Peak Sales Time: Breakfast (49.3% of total sales)
 
-    Q2 Growth: +63.1% vs Q1, major jump in May (31.9% MoM growth)
+- Q2 Growth: +63.1% vs Q1, major jump in May (31.9% MoM growth)
 
-    All three stores performed evenly, showing consistency
+- All three stores performed evenly, showing consistency
 
 **Recommendations:**
 
-    Boost breakfast-time marketing (offers, staffing, loyalty).
+- Boost breakfast-time marketing (offers, staffing, loyalty).
 
-    Replicate Q2 strategies to maintain momentum.
+- Replicate Q2 strategies to maintain momentum.
 
-    Expand coffee and tea variants (60% of total category sales).
+- Expand coffee and tea variants (60% of total category sales).
 
-    Consider new store locations based on uniform performance.
+- Consider new store locations based on uniform performance.
 
-    Investigate February dip for process/marketing gaps.
+- Investigate February dip for process/marketing gaps.
 
 ## Skills Demonstrated
 
-    Power Query for efficient ETL & calculated columns
+- Power Query for efficient ETL & calculated columns
 
-    DAX for advanced KPIs & time intelligence (YoY, MoM, QoQ)
+- DAX for advanced KPIs & time intelligence (YoY, MoM, QoQ)
 
-    Data modeling with star schema & relationships
+- Data modeling with star schema & relationships
 
-    Excel Pivot Dashboarding with interactivity
+- Excel Pivot Dashboarding with interactivity
 
-    Business acumen in interpreting sales performance
+- Business acumen in interpreting sales performance
 
 ## Future Enhancements
 
-    Migrate dashboard to Power BI for real-time cloud publishing
+- Migrate dashboard to Power BI for real-time cloud publishing
 
-    Add forecasting and trendlines using DAX or Excel Add-ins
+- Add forecasting and trendlines using DAX or Excel Add-ins
 
-    Integrate customer or demographic data for segmentation
+- Integrate customer or demographic data for segmentation
 
-    Include profitability metrics (COGS, margins, etc.)
+- Include profitability metrics (COGS, margins, etc.)
