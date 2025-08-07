@@ -58,9 +58,9 @@ This project demonstrates my end-to-end BI skills using Power Query, Power Pivot
 
 **3. DAX Measures (Samples)**
 
-    Total Sales = SUM(Transactions[unit_price])
+    Total Sales Previous Period = =CALCULATE([Total Sales],DATEADD('Calendar'[transaction_date],-1,MONTH))
 
-    Total Sales Growth = [Total Sales] - [Total Sales PP]
+    Total Sales Previous Corresponding Period = =CALCULATE([Total Sales],SAMEPERIODLASTYEAR('Calendar'[transaction_date]))
 
     % of Growth = IF(ISBLANK([Total Sales PP]), BLANK(), ([Total Sales] - [Total Sales PP]) / [Total Sales PP])
 
